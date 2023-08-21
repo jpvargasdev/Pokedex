@@ -27,8 +27,7 @@ yarn ios
 If everything is set up _correctly_, you should see Pokedex running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
 
 This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
-
-- Features
+## Features
 
 - It includes the pokeapi typescript library with axios
 - It also includes the graphql implementation
